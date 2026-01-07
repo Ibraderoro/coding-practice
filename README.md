@@ -101,3 +101,18 @@ class Solution:
             if diff in seen:
                 return [seen[diff], i]
             seen[n] = i
+🔥 Goals
+• Solve 3+ problems per week
+• Build mastery of patterns
+• Track progress consistently
+• Strengthen interview readiness
+
+🛠️ Tools I Use
+• Python / JavaScript
+• VS Code
+• Git & GitHub
+• NeetCode
+• LeetCode
+
+📌 Notes
+This repo is part of my long‑term journey to become a top‑tier Software Engineer and AI specialist.
