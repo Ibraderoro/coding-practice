@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.rulers": [80],
+  "files.autoSave": "afterDelay",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "python.analysis.typeCheckingMode": "basic",
+  "python.formatting.provider": "autopep8",
+  "javascript.format.enable": true,
+  "eslint.enable": true,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+  }
+}
