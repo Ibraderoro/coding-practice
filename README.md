@@ -101,6 +101,8 @@ class Solution:
             if diff in seen:
                 return [seen[diff], i]
             seen[n] = i
+---
+
 🔥 Goals
 • Solve 3+ problems per week
 • Build mastery of patterns
